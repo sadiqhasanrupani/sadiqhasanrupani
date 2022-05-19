@@ -28,10 +28,9 @@
 
 ---
 
-<p>
+<p align="center">
+<br />
   <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="70%" height="50%"/></a>
-</p>
-<p>
   <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="70%" height="50%"/></a>
 </p>
 
