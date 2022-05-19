@@ -33,4 +33,4 @@
   <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%"/></a>
 </p>
 
-<p><a href="https://github.com/SadiqhasanRupani72"><img alt ="Sadiqhasan's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani72&" alt="sadiqhasanrupani72" width="60%" /></a></p>  
+<p><a href="https://github.com/SadiqhasanRupani72"><img alt ="Sadiqhasan's Streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&streaks_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sadiqhasanrupani72" width="60%" /></a></p>  
