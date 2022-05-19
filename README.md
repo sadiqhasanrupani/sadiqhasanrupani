@@ -36,7 +36,7 @@
 
 <p align="center">
     <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinbhojani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqhasanRupani72&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
     </div>
 </p>
 
