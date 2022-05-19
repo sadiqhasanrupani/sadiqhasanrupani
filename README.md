@@ -146,7 +146,7 @@
         &nbsp;
     </div>
 <br />
-<h4 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="">&nbsp; View and Followers</h4>
+<h4 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="40">&nbsp; View and Followers</h4>
     <p align="center">
         <div align="center">
             <a href="https://www.github.com/yasinbhojani" target="_blank" rel="noreferrer">
