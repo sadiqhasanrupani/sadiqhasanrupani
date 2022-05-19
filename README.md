@@ -24,11 +24,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h4 align="center">📍 Connect with me:</h4>
+<h4 align="left">📍 Connect with me:</h4>
 <p align="left">
 </p>
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sadiqhasanrupani72&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)" alt="sadiqhasanrupani72" /></p>
+<a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Github Stats" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani72&show_icons=true&locale=en" alt="sadiqhasanrupani72" /></p>
 
