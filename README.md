@@ -1,5 +1,5 @@
-<h1 align="center"> Hi There 🙋🏻‍♂️, I'm Sadiqhasan </h1>
-<h1 align="center"> Data Scientist and also a Web Developer from India </h1>
+<h2 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h2>
+<h3 align="center"> Data Scientist and also a Web Developer from India </h3>
 
 <h3> 🙋🏻‍♂️ About Me </h3>
 <hr />
