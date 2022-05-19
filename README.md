@@ -45,3 +45,33 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=SadiqhasanRupani72&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution">
     </div>
 </p>  
+<hr />
+
+<h3><img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20">   Connect with me</h3>
+<hr />
+
+    <div align="left">
+        <a href="https://twitter.com/sh_rupani_1" target="_blank">
+            <img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">
+        </a>
+       <a href="https://dev.to/sadiqhasanrupani72" target="_blank">
+           <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="dev.to svg" height="40">
+        </a>
+        <a href="https://www.linkedin.com/in/sadiqhasan-rupani-a50730175/" target="_blank">
+            <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="dev.to svg" height="40">
+         </a>
+         <a href="https://www.facebook.com/sadiqhasan.rupani/" target="_blank">
+            <img src="https://www.svgrepo.com/show/111203/facebook.svg" alt="dev.to svg" height="40">
+         </a>
+         <a href="https://stackoverflow.com/users/15452041/sadiqhasan-rupani" target="_blank">
+            <img src="https://www.svgrepo.com/show/349517/stackoverflow.svg" alt="dev.to svg" height="40">
+         </a>
+         <a href="https://www.instagram.com/s_h__r_u_p_a_n_i/" target="_blank">
+            <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="dev.to svg" height="40">
+         </a>
+         <a href="https://www.reddit.com/user/Sh_Rupani" target="_blank">
+            <img src="https://www.svgrepo.com/show/349489/reddit.svg" alt="dev.to svg" height="40">
+         </a>
+    </div>
+
+<br />
