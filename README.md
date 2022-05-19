@@ -24,9 +24,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/310/bar-chart_1f4ca.png" width="20px" height="20px"> Github Stats </h3><hr>
-<p align="center">
-  <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="60%" /></a>
-  <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="60%"/></a>
+<h3 align="left"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/310/bar-chart_1f4ca.png" width="20px" height="20px"> Github Stats </h3>
+
+---
+
+<p align="">
+  <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
+  <a href="https://github.com/SadiqhasanRupani72"><img alt="Sadiqhasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%"/></a>
 </p>
+
 <p><a href="https://github.com/SadiqhasanRupani72"><img alt ="Sadiqhasan's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani72&" alt="sadiqhasanrupani72" width="60%" /></a></p>  
