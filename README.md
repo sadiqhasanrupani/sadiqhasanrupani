@@ -114,8 +114,9 @@
     </div>
 </p>  
 <br />
-<h4 align="center"><img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20">&nbsp; Connect with me:</h4>
-    <div align="center">
+<h4><img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20">&nbsp; Connect with me:</h4>
+<hr>
+    <div>
         <a href="https://twitter.com/sh_rupani_1" target="_blank">
             <img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">
         </a>
@@ -146,9 +147,10 @@
         &nbsp;
     </div>
 <br />
-<h4 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="40">&nbsp; View and Followers</h4>
-    <p align="center">
-        <div align="center">
+<h4> <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="30">&nbsp; View and Followers</h4>
+<hr/>
+    <p>
+        <div">
             <a href="https://www.github.com/yasinbhojani" target="_blank" rel="noreferrer">
                 <img
                     src="https://img.shields.io/github/followers/SadiqhasanRupani72?logo=github&style=for-the-badge&color=3382ed&       labelColor=1c1917" />
