@@ -5,9 +5,9 @@
 <h3> 🙋🏻‍♂️ About Me</h3>
   <hr>
   <ul>
-    <li>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
-    <li>I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB  </li>
-    <li> <img src="https://i.pinimg.com/736x/8a/fe/70/8afe70dde789328b5c2bf52cb7f3527f--logo-simple-innovation-logo.jpg" height="30px" width="30px"/>I also like creating interactive websites with features.</li>
+    <li><img src = "https://image.emojipng.com/309/1825309.jpg" height="20px" width="20px"/>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
+    <li>💻 I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB  </li>
+    <li>💡 I also like creating interactive websites with features.</li>
     <li>🔭 I’m currently working on https://sadiqhasanrupani72.github.io/Mini-Project/ </li>
     <li>🌱 I’m currently learning PHP with Database </li>
     <li>💬 Ask me about Web Design and Database  </li>
