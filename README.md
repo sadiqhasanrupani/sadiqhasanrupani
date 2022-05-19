@@ -151,11 +151,11 @@
 <hr/>
     <p>
         <div">
-                <img src="https://img.shields.io/github/followers/SadiqhasanRupani72?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+                <a href="https://gitHub.com/SadiqhasanRupani72/" target="_blank"><img src="https://img.shields.io/github/followers/SadiqhasanRupani72?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /><a/>
             &nbsp;
                 <img src="https://komarev.com/ghpvc/?username=SadiqhasanRupani72&style=for-the-badge&color=3382ed">
             &nbsp;
-                <img src="https://img.shields.io/twitter/follow/sh_rupani_1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+                <a href="https://twitter.com/sh_rupani_1" target="_blank"><img src="https://img.shields.io/twitter/follow/sh_rupani_1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /><a/>
             &nbsp;
     </div>
     </p>
