@@ -1,7 +1,13 @@
 <h1 align="center"> Hi There 🙋🏻‍♂️, I'm Sadiqhasan<?/h1>
 
 <h1 align="center"> Data Scientist and also a Web Developer from Inida </h1>
-Form India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management. I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB. I also like creating interactive websites with features. You can check out my twitter at https://twitter.com/sh_rupani_1 or https://www.linkedin.com/in/sadiqhasan-rupani-a50730175/.
+
+<h4> 🙋🏻‍♂️ About Me</h4>
+<ul>
+  <li>Form India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
+  <li>I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB.</li>
+  <li> I also like creating interactive websites with features.</li>
+</ul>
 
 - 🔭 I’m currently working on https://sadiqhasanrupani72.github.io/Mini-Project/ 
 - 🌱 I’m currently learning PHP with Database 
