@@ -5,7 +5,7 @@
 <h3> 🙋🏻‍♂️ About Me</h3>
   <hr>
   <ul>
-    <li><img src = "https://image.emojipng.com/309/1825309.jpg" height="20px" width="20px"/>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
+    <li><img src = "https://image.emojipng.com/309/1825309.jpg" height="10px" width="30px"/>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
     <li>💻 I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB  </li>
     <li>💡 I also like creating interactive websites with features.</li>
     <li>🔭 I’m currently working on https://sadiqhasanrupani72.github.io/Mini-Project/ </li>
