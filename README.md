@@ -41,7 +41,7 @@
 
 <br />
 
-<h3> <img src="https://img.icons8.com/ios/344/ffffff/development-skill.png" height="30" alt=""> Skills and Experience
+<h3> <img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Skills and Experience
 </h3>
 <hr />
 
