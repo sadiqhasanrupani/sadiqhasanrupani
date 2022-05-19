@@ -27,8 +27,7 @@
 <h4 align="left">📍 Connect with me:</h4>
 <p align="left">
 </p>
-
-<a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Github Stats" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a>
+<a href="https://github.com/SadiqhasanRupani72/github-readme-stats" target="_blank"><img alt="Sadiqhasan Github Stas" src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani72&show_icons=true&locale=en" alt="sadiqhasanrupani72" /></p>
 
