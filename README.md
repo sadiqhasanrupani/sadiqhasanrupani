@@ -2,12 +2,13 @@
 
 <h1 align="center"> Data Scientist and also a Web Developer from India </h1>
 
-<h4> 🙋🏻‍♂️ About Me</h4>
-<ul>
-  <li>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
-  <li>I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB.</li>
-  <li> I also like creating interactive websites with features.</li>
-</ul>
+<h3> 🙋🏻‍♂️ About Me</h3>
+  <hr>
+  <ul>
+    <li>From India!, my name is Sadiqhasan, and I'm currently a student studying Web Development and Database Management.</li>
+    <li>I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB  </li>
+    <li> I also like creating interactive websites with features.</li>
+  </ul>
 
 - 🔭 I’m currently working on https://sadiqhasanrupani72.github.io/Mini-Project/ 
 - 🌱 I’m currently learning PHP with Database 
