@@ -114,9 +114,8 @@
     </div>
 </p>  
 <br />
-
-<h3><img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20">   Connect with me</h3>
-    <div>
+<h4 align="center"><img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20">&nbsp; Connect with me:</h4>
+    <div align="center">
         <a href="https://twitter.com/sh_rupani_1" target="_blank">
             <img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">
         </a>
@@ -146,4 +145,24 @@
          </a>
         &nbsp;
     </div>
-<hr/>
+<br />
+<h4 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="">&nbsp; View and Followers</h4>
+    <p align="center">
+        <div align="center">
+            <a href="https://www.github.com/yasinbhojani" target="_blank" rel="noreferrer">
+                <img
+                    src="https://img.shields.io/github/followers/SadiqhasanRupani72?logo=github&style=for-the-badge&color=3382ed&       labelColor=1c1917" />
+            </a>
+            &nbsp;
+            <a href="https://github.com/yasinbhojani/github-profile-views-counter">
+                <img src="https://komarev.com/ghpvc/?username=SadiqhasanRupani72&style=for-the-badge&color=3382ed">
+            </a>
+            &nbsp;
+            <a href="https://www.twitter.com/yasin_bhojani" target="_blank" rel="noreferrer">
+                <img
+                    src="https://img.shields.io/twitter/follow/sh_rupani_1?logo=twitter&style=for-the-badge&color=3382ed&       labelColor=1c1917" />
+            </a>
+            &nbsp;
+    </div>
+    </p>
+<br>
