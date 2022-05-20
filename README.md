@@ -88,6 +88,10 @@
         <img src="https://www.svgrepo.com/show/374016/python.svg" alt="dev.to svg" height="40">
     </a>
     &nbsp;
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">
+    </a>
+    &nbsp;
 </div>
 <br />
 
