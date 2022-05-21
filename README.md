@@ -17,13 +17,13 @@
           </li>
       </ul>
   </p>
-  <p>
+<!--   <p>
       <ul>
           <li>
             🔭 I’m currently working on https://sadiqhasanrupani72.github.io/Mini-Project/
           </li>
       </ul>
-  </p>
+  </p> -->
   <p>
       <ul>
           <li>
