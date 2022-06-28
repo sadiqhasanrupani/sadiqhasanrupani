@@ -41,7 +41,7 @@
   <p>
       <ul>
           <li>
-            - 📫 How to reach me sadiqhasanrupani11@gmail.com
+            📫 How to reach me <a href="sadiqhasanrupani11@gmail.com" target="_blank">Sadiqhasan</a>
           </li>
       </ul>
   </p>
