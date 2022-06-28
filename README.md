@@ -27,14 +27,21 @@
   <p>
       <ul>
           <li>
-            🌱 I’m currently learning PHP with Database
+            🌱 I’m currently learning JavaScript and Data Python
           </li>
       </ul>
   </p>
   <p>
       <ul>
           <li>
-            💬 Ask me about Web Design and Database
+            💬 Ask me about Web Development and Data Visualization
+          </li>
+      </ul>
+  </p>
+  <p>
+      <ul>
+          <li>
+            - 📫 How to reach me sadiqhasanrupani11@gmail.com
           </li>
       </ul>
   </p>
