@@ -27,7 +27,7 @@
   <p>
       <ul>
           <li>
-            🌱 I’m currently learning JavaScript and Data Python
+            🌱 I’m currently learning JavaScript ,Python
           </li>
       </ul>
   </p>
