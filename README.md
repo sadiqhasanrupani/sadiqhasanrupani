@@ -99,6 +99,10 @@
         <img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">
     </a>
     &nbsp;
+    <a href="https://numpy.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png?20200723114325" alt="dev.to svg" height="40">
+    </a>
+    &nbsp;
 </div>
 <br />
 
