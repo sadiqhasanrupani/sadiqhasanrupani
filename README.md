@@ -104,7 +104,7 @@
     </a>
     &nbsp;
     <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="dev.to svg" height="40">
+        <img src="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="dev.to svg" height="40">
     </a>
     &nbsp;
 </div>
