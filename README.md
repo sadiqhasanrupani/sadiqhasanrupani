@@ -41,7 +41,7 @@
   <p>
       <ul>
           <li>
-            📫 How to reach me <a href="https://sadiqhasanrupani11@gmail.com" target="_blank">Sadiqhasan</a>
+            📫 sadiqhasanrupani11@gmail.com or https://www.linkedin.com/in/sadiqhasan-rupani-a50730175/
           </li>
       </ul>
   </p>
@@ -101,6 +101,10 @@
     &nbsp;
     <a href="https://numpy.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png?20200723114325" alt="dev.to svg" height="40">
+    </a>
+    &nbsp;
+    <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="dev.to svg" height="40">
     </a>
     &nbsp;
 </div>
