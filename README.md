@@ -92,7 +92,7 @@
     </a>
     &nbsp;
     <a href="https://www.python.org" target="_blank">
-        <img src="https://www.svgrepo.com/show/374016/python.svg" alt="dev.to svg" height="40">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="dev.to svg" height="40">
     </a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank">
@@ -104,7 +104,7 @@
     </a>
     &nbsp;
     <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank">
-        <img src="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="dev.to svg" height="40">
+        <img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="dev.to svg" height="40">
     </a>
     &nbsp;
 </div>
