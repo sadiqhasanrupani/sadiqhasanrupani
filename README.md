@@ -116,20 +116,20 @@
 <p align="center">
     <br />
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SadiqhasanRupani72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sadiqhasan's Github Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqhasanRupani72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="Sadiqhasan's Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sadiqhasan's Github Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="Sadiqhasan's Top Languages">
     </div>
 </p>
 
 <p align="center">
     <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqhasanRupani72&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
     </div>
 </p>
 
 <p align="center">
     <div align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=SadiqhasanRupani72&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution">
+        <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution">
     </div>
 </p>  
 <br />
@@ -170,9 +170,9 @@
 <hr/>
     <p>
         <div">
-                <a href="https://gitHub.com/SadiqhasanRupani72/" target="_blank"><img src="https://img.shields.io/github/followers/SadiqhasanRupani72?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /><a/>
+                <a href="https://gitHub.com/sadiqhasanrupani/" target="_blank"><img src="https://img.shields.io/github/followers/sadiqhasanrupani?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /><a/>
             &nbsp;
-                <img src="https://komarev.com/ghpvc/?username=SadiqhasanRupani72&style=for-the-badge&color=3382ed">
+                <img src="https://komarev.com/ghpvc/?username=sadiqhasanrupani&style=for-the-badge&color=3382ed">
             &nbsp;
                 <a href="https://twitter.com/sh_rupani_1" target="_blank"><img src="https://img.shields.io/twitter/follow/sh_rupani_1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /><a/>
             &nbsp;
