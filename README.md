@@ -27,7 +27,7 @@
   <p>
       <ul>
           <li>
-            🌱 I’m currently learning JavaScript ,Python
+            🌱 I’m currently learning <b>React&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="2%" /></b>
           </li>
       </ul>
   </p>
