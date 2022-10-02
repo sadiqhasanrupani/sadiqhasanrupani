@@ -62,9 +62,9 @@
             alt="dev.to svg" height="40">
     </a>
     &nbsp;
-    <a href="https://www.w3schools.com/cs/" target="_blank">
+    <!--<a href="https://www.w3schools.com/cs/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="dev.to svg" height="40">
+            alt="dev.to svg" height="40">-->
     </a>
     &nbsp;
     <a href="https://www.w3.org/html/" target="_blank">
@@ -83,9 +83,9 @@
         <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="40">
     </a>
     &nbsp;
-    <a href="https://www.php.net" target="_blank">
+    <!-- <a href="https://www.php.net" target="_blank">
         <img src="https://www.svgrepo.com/show/349474/php.svg" alt="dev.to svg" height="40">
-    </a>
+    </a> -->
     &nbsp;
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">
