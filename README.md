@@ -3,11 +3,11 @@
 
 ### 🙋🏻‍♂️ About Me 
 ---
-- 💻 I appreciate studying languages and frameworks such as ReactJS, NodeJS, Bootstrap, and TypeScript, as well as databases such as MySQL, PostgreSQL, and MongoDB
+- 🔭 I’m currently working on my Skills.
 - 💡 I also like creating interactive websites with features.
-- 🌱 I’m currently learning <b>React&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="18" /></b>
-- 💬 Ask me about HTML, CSS, JavaScript, JSX, React.Js
-- 📫 sadiqhasanrupani11@gmail.com 
+- 🌱 I’m currently learning more about <b>React&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="18" /></b>
+- 💬 Ask me about HTML, Sass, JavaScript, JSX, React.Js.
+- 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com 
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Skills and Experience
 ---
@@ -24,8 +24,10 @@
 #### Web Development Skills:
 [<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="dev.to svg" height="40">](https://www.w3.org/html/)
 [<img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="dev.to svg" height="40">](https://www.w3schools.com/css/)
-[<img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="40">](https://www.mysql.com/)
+[<img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="dev.to svg" height="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" height="35">](https://sass-lang.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="35">](https://beta.reactjs.org/)
+[<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="50">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)
 
 #### Other Skills:
