@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my Skills.
 - 💡 I also like creating interactive websites with features.
 - 🌱 I’m currently learning more about <b>React&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="18" /></b>
-- 💬 Ask me about HTML, Sass, JavaScript, JSX, React.Js.
+- 💬 Ask me about HTML, Sass, JSX, React.Js.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com 
 
 ### <img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Skills and Experience
