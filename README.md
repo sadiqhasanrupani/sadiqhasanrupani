@@ -1,13 +1,13 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-[<img src="assets/Frontend_Sadiqhasan.png"/>](https://www.linkedin.com/in/sadiqhasan-rupani/)
+[<img src="assets/Languages logo/Sadiqhasan Banner.png"/>](https://www.linkedin.com/in/sadiqhasan-rupani/)
 
 ### 🙋🏻‍♂️ About Me 
 ---
 - 🔭 I’m currently working on my Skills.
 - 💡 I also like creating interactive websites with features.
-- 🌱 I’m currently learning more about <b>React&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="18" /></b>
+- 🌱 I’m currently learning more about <b>React&nbsp;</b><img src="assets/Languages logo/logo-react.svg" height="19"/>
 - 💬 Ask me about HTML, Sass, JSX, React.Js.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com 
 
@@ -25,11 +25,11 @@
 
 #### Web Development Skills:
 ##### Frontend Skills:
-[<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="dev.to svg" height="40">](https://www.w3.org/html/)
-[<img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="dev.to svg" height="40">](https://www.w3schools.com/css/)
-[<img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="dev.to svg" height="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" height="35">](https://sass-lang.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="35">](https://beta.reactjs.org/)
+[<img src="assets/Languages logo/logo-html.png" alt="dev.to svg" height="40">](https://www.w3.org/html/)&nbsp;&nbsp;
+[<img src="assets/Languages logo/logo-css.png" alt="dev.to svg" height="40">](https://www.w3schools.com/css/)&nbsp;&nbsp;
+[<img src="assets/Languages logo/logo-javascript 3.png" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
+[<img src="assets/Languages logo/logo-sass.png" height="40">](https://sass-lang.com/)&nbsp;&nbsp;
+[<img src="assets/Languages logo/logo-react.png" height="48">](https://beta.reactjs.org/)&nbsp;&nbsp;
 ##### Backend Skills:
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="55">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)
