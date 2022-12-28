@@ -1,7 +1,7 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-[<img src="assets/Languages logo/Sadiqhasan Banner.png" loading="lazy"/>](https://www.linkedin.com/in/sadiqhasan-rupani/)
+![SadiqhasanBanner](assets/Sadiqhasan%20Banner.png)
 
 ### 🙋🏻‍♂️ About Me 
 ---
@@ -11,6 +11,12 @@
 - 💬 Ask me about HTML, Sass, JSX, React.Js.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com 
 
+### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
+---
+[<img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">](<a href="https://twitter.com/Sh_Rupani" target="_blank">)
+[<img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="dev.to svg" height="40">](https://dev.to/sadiqhasanrupani72)
+[<img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="dev.to svg" height="40">](https://www.linkedin.com/in/sadiqhasanrupani/)
+<br />
 ### <img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Skills and Experience
 ---
 #### Coding Skills:
@@ -43,14 +49,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
 <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution">
 
-### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
----
-[<img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">](<a href="https://twitter.com/sh_rupani_1" target="_blank">)
-[<img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="dev.to svg" height="40">](https://dev.to/sadiqhasanrupani72)
-[<img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="dev.to svg" height="40">](https://www.linkedin.com/in/sadiqhasan-rupani-a50730175/)
-[<img src="https://www.svgrepo.com/show/111203/facebook.svg" alt="dev.to svg" height="40">](https://www.facebook.com/sadiqhasan.rupani/)
-[<img src="https://www.svgrepo.com/show/349517/stackoverflow.svg" alt="dev.to svg" height="40">](https://stackoverflow.com/users/15452041/sadiqhasan-rupani)
-<br />
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="30">&nbsp; View and Followers
 ---
