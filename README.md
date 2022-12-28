@@ -52,7 +52,7 @@
 [<img src="assets/Languages logo/Javascript.png" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
 [<img src="assets/Languages logo/Typescript.png" alt="dev.to svg" height="40">](https://www.typescriptlang.org/)&nbsp;&nbsp;
 [<img src="assets/Languages logo/NodeJs.png" alt="dev.to svg" height="40">](https://nodejs.org/en/docs/)&nbsp;&nbsp;
-[<img src="assets/Languages logo/Express.png" alt="dev.to svg" height="41">](https://expressjs.com/)&nbsp;&nbsp;
+[<img src="assets/Languages logo/Express.png" alt="dev.to svg" height="48">](https://expressjs.com/)&nbsp;&nbsp;
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="55">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
