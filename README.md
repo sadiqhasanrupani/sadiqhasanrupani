@@ -1,20 +1,24 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-![SadiqhasanBanner](assets/Sadiqhasan%20Banner.png)
+[<img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani">](https://www.linkedin.com/in/sadiqhasanrupani)
 
-### 🙋🏻‍♂️ About Me 
+### 🙋🏻‍♂️ About Me
+
 ---
-- 🔭 I’m currently working on my Skills.
-- 💡 I also like creating interactive websites with features.
-- 🌱 I’m currently learning more about <b>React&nbsp;</b><img src="assets/Languages logo/logo-react.svg" height="19"/>
-- 💬 Ask me about HTML, Sass, JSX, React.Js.
-- 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com 
+
+- 🔭 I’m currently working to become a Fullstack Developer.
+- 💡 Building interactive Webapps and developing apps is what I'm most passionate about.
+- 🌱 Currently learning <b>ReactJs and ExpressJs.</b>
+- 💬 Ask me about Web development.
+- 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
 ---
+
 <!-- [<img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">](<a href="https://twitter.com/Sh_Rupani" target="_blank">) -->
+
 [<img src="assets/Languages logo/hackerrank.svg" alt="dev.to svg" height="44">](https://www.hackerrank.com/sadiqhasanrupan1)
 [<img src="assets/Languages logo/Hashnode.svg" alt="dev.to svg" height="39">](https://sadiqhasan.hashnode.dev/)&nbsp;
 [<img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="dev.to svg" height="40">](https://dev.to/sadiqhasanrupani72)&nbsp;&nbsp;
@@ -71,6 +75,8 @@
 <br />
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="30">&nbsp; View and Followers
+
 ---
+
 [<img src="https://img.shields.io/github/followers/sadiqhasanrupani?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />]("https://gitHub.com/sadiqhasanrupani/)
 <img src="https://komarev.com/ghpvc/?username=sadiqhasanrupani&style=for-the-badge&color=3382ed">
