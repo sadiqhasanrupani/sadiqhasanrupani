@@ -10,7 +10,7 @@
 - 🔭 I’m currently working to become a Fullstack Developer.
 - 💡 Building interactive Webapps and developing apps is what I'm most passionate about.
 - 🌱 Currently learning <b>ReactJs and ExpressJs.</b>
-- 💬 Ask me about Web development.
+<!-- - 💬 Ask me about Web development. -->
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
