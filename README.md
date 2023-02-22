@@ -8,8 +8,8 @@
 ---
 
 - 🔭 I’m currently working to become a Fullstack Developer.
-- 💡 Building interactive Webapps and developing apps is what I'm most passionate about.
-- 🌱 Currently learning <b>ReactJs and ExpressJs.</b>
+- 💡 Building interactive Web apps is what I'm most passionate about.
+- 🌱 Working on my [Major Project](https://edugate-major-project.vercel.app/)
 - 💬 Ask me about Web development.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
 
@@ -41,7 +41,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png?20200723114325" alt="dev.to svg" height="40">](https://numpy.org/)
 [<img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="dev.to svg" height="40">](https://pandas.pydata.org/pandas-docs/stable/index.html) -->
 
-### Fronend Development:
+### Frontend Development:
 
 [<img src="assets/Languages logo/logo-html.png" alt="dev.to svg" height="40">](https://www.w3.org/html/)&nbsp;&nbsp;
 [<img src="assets/Languages logo/logo-css.png" alt="dev.to svg" height="40">](https://www.w3schools.com/css/)&nbsp;&nbsp;
@@ -49,7 +49,6 @@
 [<img src="assets/Languages logo/Javascript.png" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
 [<img src="assets/Languages logo/logo-sass.png" height="40">](https://sass-lang.com/)&nbsp;&nbsp;
 [<img src="assets/Languages logo/logo-react.png" height="48">](https://beta.reactjs.org/)&nbsp;&nbsp;
-[<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
 ### Backend Development
 
@@ -59,6 +58,8 @@
 [<img src="assets/Languages logo/Express.png" alt="dev.to svg" height="30">](https://expressjs.com/)&nbsp;&nbsp;
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="55">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
+
+### File management System
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
 <br />
@@ -67,9 +68,12 @@
 
 ---
 
+<div styles="width: 100%;display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
 <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sadiqhasan's Github Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="Sadiqhasan's Top Languages">
+</div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
+<a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
 
 <br />
