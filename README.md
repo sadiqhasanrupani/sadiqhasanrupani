@@ -68,12 +68,19 @@
 
 ---
 
-<div styles="width: 100%;display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
-<img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sadiqhasan's Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="Sadiqhasan's Top Languages">
+<div align="center" styles="width: 100%;display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sadiqhasan's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="Sadiqhasan's Top Languages">
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
-<a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Sadiqhasan's Streaks">
+</div>
+
+<div align="center">
+  <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
+
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
 
 <br />
