@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=21202B&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
