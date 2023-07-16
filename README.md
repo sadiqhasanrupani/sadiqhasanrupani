@@ -1,7 +1,7 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-[<img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani">](./assets//resume/Sadiqhasan_resume.pdf)
+<a href="./assets/resume/Sadiqhasan_resume.pdf"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
 
 ### 🙋🏻‍♂️ About Me
 
