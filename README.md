@@ -1,7 +1,7 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-[<img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani">](https://www.linkedin.com/in/sadiqhasanrupani)
+<a href="./assets/resume/Sadiqhasan_resume.pdf"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
 
 ### 🙋🏻‍♂️ About Me
 
@@ -59,7 +59,7 @@
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="55">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 
-### File management System
+### File Management System
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
 <br />
@@ -78,7 +78,9 @@
 </div>
 
 <div align="center">
-  <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=21202B&color=ffffff&line=7959FD&point=ffffff&area_color=21202B&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="https://github.com/sadiqhasanrupani/">
+        <img alt="Sadiqhasan's commit graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=21202B" width="85%"/>
+    </a>
 </div>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
