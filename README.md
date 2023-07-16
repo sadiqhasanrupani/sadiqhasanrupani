@@ -79,7 +79,7 @@
 
 <div align="center">
   <a href="https://github.com/sadiqhasanrupani/">
-        <img alt="Sadiqhasan's commit graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&theme=react&hide_border=true&stroke=0000&background=21202B" width="75%"/>
+        <img alt="Sadiqhasan's commit graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=21202B" width="85%"/>
     </a>
 </div>
 
