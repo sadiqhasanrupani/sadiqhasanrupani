@@ -60,6 +60,7 @@
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 
 ### File Management System
+
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
 <br />
@@ -68,9 +69,9 @@
 
 ---
 
-<div align="center" styles="width: 100%;display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
+<div align="center" width="50%" styles="display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=21202B" alt="Sadiqhasan's Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=10&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=10&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
 </div>
 
 <div align="center">
