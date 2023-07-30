@@ -70,12 +70,12 @@
 
 <div align="center" styles="width: 100%;display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=21202B" alt="Sadiqhasan's Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=10&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=21202B" alt="Sadiqhasan's Streaks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sadiqhasanrupani&theme=react&border_color=fff&text_color=fff&icon_color=000&title_color=000" alt="My GitHub Time Stats" />
+  
 </div>
 
 <div align="center">
