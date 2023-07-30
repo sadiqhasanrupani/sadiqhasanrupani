@@ -75,6 +75,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=21202B" alt="Sadiqhasan's Streaks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sadiqhasanrupani&theme=react&border_color=fff&text_color=fff&icon_color=000&title_color=000" alt="My GitHub Time Stats" />
 </div>
 
 <div align="center">
