@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working to become a Fullstack Developer.
+- 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Working on my [Major Project](https://edugate-major-project.vercel.app/)
-- 💬 Ask me about Web development.
-- 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
+- 🌱 Learning about **Next.JS**.
+- 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
+- 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
@@ -69,9 +69,9 @@
 
 ---
 
-<div align="center" width="50%" styles="display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=21202B" alt="Sadiqhasan's Github Stats">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=10&count_private=true&layout=donut&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
+<div align="center" width="1000%" styles="display: grid; grid-template-column: repeat(2, 1fr); justify-content: center; align-items: center; gap: 2rem">
+  <img height="240" src="https://github-readme-stats.vercel.app/api?username=sadiqhasanrupani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=21202B" alt="Sadiqhasan's Github Stats">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqhasanrupani&langs_count=10&count_private=true&layout=pie&theme=react&hide_border=true&bg_color=21202B"alt="Sadiqhasan's Top Languages">
 </div>
 
 <div align="center">
