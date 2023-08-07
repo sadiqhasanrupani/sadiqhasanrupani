@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Learning about **Next.JS**.
+- 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
