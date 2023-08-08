@@ -12,6 +12,7 @@
 - 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
 - 📑 To learn more about me you can check out my [Resume](./assets/resume/Sadiqhasan_resume.pdf)
+- Here is my recent [project link](https://drive.google.com/file/d/1aARbixJ2Ic2GGpusP0zNHL1zQ_08Sdi6/view?usp=drive_link)
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
