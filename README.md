@@ -11,6 +11,7 @@
 - 💡 Building interactive Web apps is what I'm most passionate about.
 - 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
+- 📑 To learn more about me you can check out my [Resume](./assets/resume/Sadiqhasan_resume.pdf)
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
