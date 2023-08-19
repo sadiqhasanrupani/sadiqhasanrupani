@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working to become a Fullstack Developer.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Working on my [Major Project](https://edugate-major-project.vercel.app/)
+- 🌱 Learning about [Next.Js](https://nextjs.org/).
 - 💬 Ask me about Web development.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
 
@@ -29,11 +29,13 @@
 
 ---
 
-### Programming:
+### Programming Languages:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="">](https://www.cprogramming.com/)
-[<img src="https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon.png" height="43" alt="">](https://www.w3schools.com/cpp/)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="dev.to svg" height="40">](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="">](https://www.cprogramming.com/)&nbsp;&nbsp;
+[<img src="https://images.vexels.com/media/users/3/166253/isolated/lists/14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon.png" height="43" alt="">](https://www.w3schools.com/cpp/)&nbsp;&nbsp;
+[<img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="dev.to svg" height="40">](https://www.python.org)&nbsp;&nbsp;
+[<img src="assets/Languages logo/Javascript.png" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="assets/Languages logo/Typescript.png" alt="dev.to svg" height="40">](https://www.typescriptlang.org/)&nbsp;&nbsp;
 
 <!-- ### Data Science:
 
@@ -59,7 +61,7 @@
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="dev.to svg" height="55">](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 
-### File management System
+### File Management System
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
 <br />
@@ -77,9 +79,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=21202B" alt="Sadiqhasan's Streaks">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=21202B&color=ffffff&line=7959FD&point=ffffff&area_color=21202B&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</div>
+</div> -->
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
 
@@ -89,5 +91,5 @@
 
 ---
 
-[<img src="https://img.shields.io/github/followers/sadiqhasanrupani?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />]("https://gitHub.com/sadiqhasanrupani/)
+[<img src="https://img.shields.io/github/followers/sadiqhasanrupani?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />]("https://gitHub.com/sadiqhasanrupani/)&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sadiqhasanrupani&style=for-the-badge&color=3382ed">
