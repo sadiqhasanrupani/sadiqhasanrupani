@@ -9,17 +9,14 @@
 
 - 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-<<<<<<< HEAD
 - 🌱 Learning about [Next.Js](https://nextjs.org/).
 - 💬 Ask me about Web development.
 - 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
-=======
 - 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
 - 📑 To learn more about me you can check out my [Resume](https://drive.google.com/file/d/1K73NGIZZxy9WhB5Ge_HGR7wx6ttzyB0g/view?usp=drive_link).
 - Here is my recent [Project's screen capture video](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
->>>>>>> refs/remotes/origin/main
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
@@ -70,13 +67,8 @@
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 
 ### File Management System
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
-<br />
 
 ### <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-graph-edutainment-flaticons-lineal-color-flat-icons-2.png" height="40">&nbsp; Github Statistics </h3>
 
@@ -92,17 +84,14 @@
   
 </div>
 
-<<<<<<< HEAD
 <!-- <div align="center">
   <a href="http://www.github.com/sadiqhasanrupani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sadiqhasanrupani&bg_color=21202B&color=ffffff&line=7959FD&point=ffffff&area_color=21202B&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div> -->
-=======
 <div align="center">
   <a href="https://github.com/sadiqhasanrupani/">
         <img alt="Sadiqhasan's commit graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=21202B" width="85%"/>
     </a>
 </div>
->>>>>>> refs/remotes/origin/main
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sadiqhasanrupani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="40%" alt="Sadiqhasan's Contribution"> -->
 
