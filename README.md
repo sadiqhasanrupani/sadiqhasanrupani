@@ -9,13 +9,10 @@
 
 - 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Learning about [Next.Js](https://nextjs.org/).
-- 💬 Ask me about Web development.
-- 📫 How to reach me: Email - sadiqhasanrupani11@gmail.com
 - 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
 - 📑 To learn more about me you can check out my [Resume](https://drive.google.com/file/d/1K73NGIZZxy9WhB5Ge_HGR7wx6ttzyB0g/view?usp=drive_link).
-- Here is my recent [Project's screen capture video](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
+- 🎥 Here is my recent [Project's screen capture video](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
 ### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
