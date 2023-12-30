@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
 - 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Continuously Learning about **Next.JS 13, DSA and Three.JSs**.
+- 🌱 Continuously Learning about **GoLang**.
 - 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
-- 📑 To learn more about me you can check out my [Resume](https://drive.google.com/file/d/1K73NGIZZxy9WhB5Ge_HGR7wx6ttzyB0g/view?usp=drive_link).
+- 📑 To learn more about me you can check out my [Resume](https://drive.google.com/file/d/1QoGOMf6-bq0ALGS7VQlyPboW5eT4nMR5/view?usp=drive_link).
 - 🎥 Here is my recent [Project's screen capture video](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 How to reach me: Email - sadiqhasan.r@outlook.com
 
