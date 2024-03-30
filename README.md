@@ -1,21 +1,24 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-<a href="./assets/resume/Sadiqhasan_resume.pdf"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
+<a href="https://drive.google.com/file/d/1J9qTyLIJ2NedokkRoRPzhlWN1_bv2C-1/view"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
 
-### 🙋🏻‍♂️ About Me
+## 🚀 About Me
 
 ---
 
-- 🔭 I’m currently working to become a **Fullstack Developer 👨‍💻**.
-- 💡 Building interactive Web apps is what I'm most passionate about.
-- 🌱 Continuously Learning about **GoLang**.
-- 💬 Ask me about **Typescript, React.Js, Node.Js and Express.Js.**
-- 📑 To learn more about me you can check out my [Resume](https://drive.google.com/file/d/1QoGOMf6-bq0ALGS7VQlyPboW5eT4nMR5/view?usp=drive_link).
-- 🎥 Here is my recent [Project's screen capture video](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
-- 📫 How to reach me: Email - sadiqhasan.r@outlook.com
+- 🎨 Crafting captivating digital experiences is my forte.
+- 🌟 On a quest to become a **Fullstack Developer Extraordinaire 👨‍💻**.
+- 💡 Fuelled by a passion for innovation and problem-solving.
+- 🌱 Currently immersing myself in the world of **GoLang** to level up my skills.
+- 💬 Got questions? Shoot them my way about **Typescript, React.Js, Node.Js, and Express.Js**.
+- 📑 Explore my journey through the digital realm in my [Resume](https://drive.google.com/file/d/1J9qTyLIJ2NedokkRoRPzhlWN1_bv2C-1/view).
+- 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
+- 📫 Reach out to me via email: sadiqhasan.r@outlook.com
 
-### <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
+[View Portfolio](https://sadiqhasan-portfolio.vercel.app)
+
+## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
 ---
 
@@ -27,7 +30,7 @@
 [<img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="dev.to svg" height="39">](https://www.linkedin.com/in/sadiqhasanrupani/)&nbsp;&nbsp;
 <br />
 
-<h2><img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Frameworks and languages</h2>
+## <img src="https://cdn.iconscout.com/icon/free/png-64/skills-1956279-1650442.png" height="40" alt=""> Frameworks and languages
 
 ---
 
@@ -64,10 +67,10 @@
 [<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="dev.to svg" height="40">](https://www.postgresql.org)&nbsp;&nbsp;
 
 ### File Management System
+
 [<img src="https://www.svgrepo.com/show/373623/git.svg" alt="dev.to svg" height="40">](https://git-scm.com/)
 
-
-### <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-graph-edutainment-flaticons-lineal-color-flat-icons-2.png" height="40">&nbsp; Github Statistics </h3>
+## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-graph-edutainment-flaticons-lineal-color-flat-icons-2.png" height="40">&nbsp; Github Statistics
 
 ---
 
@@ -94,7 +97,7 @@
 
 <br />
 
-### <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="30">&nbsp; View and Followers
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747968.png" alt="" height="30">&nbsp; View and Followers
 
 ---
 
