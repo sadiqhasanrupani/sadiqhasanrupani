@@ -16,7 +16,7 @@
 - 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
 
-[View Portfolio](https://sadiqhasan-portfolio.vercel.app)
+[View Portfolio](https://sadiqhasan-rupani.vercel.app/)
 
 ## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
