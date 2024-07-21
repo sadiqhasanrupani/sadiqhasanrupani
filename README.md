@@ -1,22 +1,20 @@
 <!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
 <h3 align="center"> I'm a front-end developer from India right now. </h3> -->
 
-<a href="https://drive.google.com/file/d/1J9qTyLIJ2NedokkRoRPzhlWN1_bv2C-1/view"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
+<a href="https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
 
 ## 🚀 About Me
 
 ---
 
-- 🎨 Crafting captivating digital experiences is my forte.
-- 🌟 On a quest to become a **Fullstack Developer Extraordinaire 👨‍💻**.
-- 💡 Fuelled by a passion for innovation and problem-solving.
-- 🌱 Currently immersing myself in the world of **GoLang** to level up my skills.
-- 💬 Got questions? Shoot them my way about **Typescript, React.Js, Node.Js, and Express.Js**.
-- 📑 Explore my journey through the digital realm in my [Resume](https://drive.google.com/file/d/1J9qTyLIJ2NedokkRoRPzhlWN1_bv2C-1/view).
+- 🎨 I'm a developer who loves to work with big dreams into reality through code 💻.
+- 🌟 If you’re ready to spend less time worrying about tech and more time focusing on what you do best, you’re in the right place 😊.
+- 💬 Ask me about **Mern, Mean, Golang, Spring boot**.
+- 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
 
-[View Portfolio](https://sadiqhasan-rupani.vercel.app/)
+- 🌐 View My [Portfolio Website](https://sadiqhasan-rupani.vercel.app/)
 
 ## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
 
@@ -41,6 +39,7 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="dev.to svg" height="40">](https://www.python.org)&nbsp;&nbsp;
 [<img src="assets/Languages logo/Javascript.png" alt="dev.to svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
 [<img src="assets/Languages logo/Typescript.png" alt="dev.to svg" height="40">](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<img src="assets/Languages logo/GoLang.svg" alt="golang" height="40" width="70" >](https://go.dev/)&nbsp;&nbsp;
 
 <!-- ### Data Science:
 
