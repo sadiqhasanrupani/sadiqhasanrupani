@@ -13,6 +13,7 @@
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
+- ☕ Buy me a [Coffee](https://buymeacoffee.com/sadiqhasanr)
 
 - 🌐 Watch my portfolio on [sadiqhasan-rupani.com](https://sadiqhasan-rupani.vercel.app/)
 
@@ -80,7 +81,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqhasanrupani&theme=black-ice&hide_border=true&stroke=0000&background=21202B" alt="Sadiqhasan's Streaks">
-  
+
 </div>
 
 <!-- <div align="center">
