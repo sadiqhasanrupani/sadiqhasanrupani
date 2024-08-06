@@ -9,7 +9,7 @@
 
 - 🎨 I'm a developer who loves to work with big dreams into reality through code 💻.
 - 🌟 If you’re ready to spend less time worrying about tech and more time focusing on what you do best, you’re in the right place 😊.
-- 💬 Ask me about **Mern, Mean, Golang, Spring boot**.
+- 💬 Ask me about **Mern, Golang, Spring boot**.
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
