@@ -1,15 +1,13 @@
-<!-- <h3 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="40">, I'm Sadiqhasan </h3>
-<h3 align="center"> I'm a front-end developer from India right now. </h3> -->
-
-<a href="https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing"><img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani"></a>
+<a href="https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing" alt="my-banner">
+  <img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani">
+</a>
 
 ## 🚀 About Me
 
 ---
 
-- 🎨 I'm a developer who loves to work with big dreams into reality through code 💻.
 - 🌟 If you’re ready to spend less time worrying about tech and more time focusing on what you do best, you’re in the right place 😊.
-- 💬 Ask me about **Mern, Golang, Spring boot**.
+- 💬 Ask me about **SERN and PERN Stack**.
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
@@ -17,7 +15,7 @@
 
 - 🌐 Watch my portfolio on [sadiqhasan-rupani.com](https://sadiqhasan-rupani.vercel.app/)
 
-## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="" height="20"> Connect with me:
+## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="connet-with-me" height="20"> Connect with me:
 
 ---
 
