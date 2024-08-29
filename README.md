@@ -6,8 +6,8 @@
 
 ---
 
-- <img src="assets/Languages logo/arch-linux.svg" alt="dev.to svg" height="14"> &nbsp;I use Arch btw... 
-- 💬 I'm a versatile developer.
+- <img src="assets/Languages logo/arch-linux.svg" alt="dev.to svg" height="14"> &nbsp;I use **Arch btw**
+- 💬 I use **tmux** and **i3** for boost my development productivity
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 My major project demo video link [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
@@ -19,7 +19,7 @@
 ---
 
 <!-- [<img src="https://www.svgrepo.com/show/183608/twitter.svg" height="40" alt="">](<a href="https://twitter.com/Sh_Rupani" target="_blank">) -->
-
+j
 [<img src="assets/Languages logo/hackerrank.svg" alt="dev.to svg" height="44">](https://www.hackerrank.com/sadiqhasanrupan1)
 [<img src="assets/Languages logo/Hashnode.svg" alt="dev.to svg" height="39">](https://sadiqhasan.hashnode.dev/)&nbsp;
 [<img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="dev.to svg" height="40">](https://dev.to/sadiqhasanrupani72)&nbsp;&nbsp;
