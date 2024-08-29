@@ -6,8 +6,8 @@
 
 ---
 
-- <img src="assets/Languages logo/arch-linux.svg" alt="dev.to svg" height="14"> &nbsp;I use **Arch btw**
-- 💬 I use **tmux** and **i3** for boost my development productivity
+- <img src="assets/Languages logo/arch-linux.svg" alt="dev.to svg" height="14"> &nbsp;**Arch user, btw**  
+- 💬 **tmux** and **i3** for turbocharging my development setup
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
 - 🎥 My major project demo video link [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
