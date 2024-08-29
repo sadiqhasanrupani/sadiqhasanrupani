@@ -6,13 +6,12 @@
 
 ---
 
-- 🌟 If you’re ready to spend less time worrying about tech and more time focusing on what you do best, you’re in the right place 😊.
-- 💬 Ask me about **SERN and PERN Stack**.
+- <img src="assets/Languages logo/arch-linux.svg" alt="dev.to svg" height="14"> &nbsp;I use Arch btw... 
+- 💬 I'm a versatile developer.
 - 📑 Checkout my [Resume](https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing).
-- 🎥 Dive into my project showcase [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
+- 🎥 My major project demo video link [here](https://drive.google.com/file/d/1l1UMtv_usytN66y3KyDb587uexLvt4cV/view).
 - 📫 Reach out to me via email: sadiqhasan.r@outlook.com
 - ☕ Buy me a [Coffee](https://buymeacoffee.com/sadiqhasanr)
-
 - 🌐 Watch my portfolio on [sadiqhasan-rupani.com](https://sadiqhasan-rupani.vercel.app/)
 
 ## <img src="https://www.svgrepo.com/show/131601/link.svg" alt="connet-with-me" height="20"> Connect with me:
