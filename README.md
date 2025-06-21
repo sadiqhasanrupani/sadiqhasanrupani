@@ -1,50 +1,52 @@
 <a href="https://drive.google.com/file/d/1Xc7uWNHEIQgiL4aziSEQn9yELw0bpcLq/view?usp=sharing" alt="My Banner">
-  <img src="assets/Sadiqhasan Banner.png" alt="Sadiqhasan Rupani" />
+  <img src="assets/Linkedin professional banner.png" alt="Sadiqhasan Rupani" />
 </a>
 
-# 👋 Hello, I'm Sadiqhasan Rupani  
-### 🧠 Data Scientist | Analyst | Forecasting Enthusiast
+# 👋 Hello, I'm Sadiq Rupani  
+### 🧠 Data Scientist | AI Enthusiast | Forecasting & Insight Specialist
 
 ---
 
 ## 📌 About Me
 
-I'm a curious and results-driven **Data Scientist** who transforms raw data into actionable insights.  
-With a solid foundation in **Python, SQL, Machine Learning, and Time Series**, I specialize in uncovering trends, building predictive models, and visualizing complex information for strategic decision-making.
+I'm a **data-driven explorer** who blends statistical thinking with technical execution.  
+With a background in **Full Stack Development** and a growing expertise in **Data Science**, I craft solutions that make data meaningful, predictive, and actionable.
 
-- 🧠 Strong analytical mindset with a background in **Full Stack Development**
-- 🧪 Passionate about **Time Series Forecasting**, **EDA**, and **ML pipelines**
-- 🛠️ Tools of the trade: `Python`, `Pandas`, `Scikit-learn`, `MySQL`, `Power BI`, `Advanced Excel`
-- 📈 Currently exploring: **LSTM**, **Prophet**, and **Sentiment Analysis**
-
----
-
-## 🎯 What I'm Working On
-
-- ⏳ **AAPL Time Series Forecasting**: 15 years of stock data modeled using SARIMAX  
-- 📊 **Customer Churn Prediction** using classification models  
-- 📍 **Retail Sales Dashboard** built in Power BI  
-- 🔄 **EDA Pipelines** for cleaning and transforming messy real-world datasets
+- 🧠 Passionate about **Time Series Forecasting**, **GenAI**, and **Business Intelligence**
+- 📊 Strong command over **EDA**, **Machine Learning**, and **Interactive Dashboards**
+- 💡 Exploring **Vector Databases**, **Prompt Engineering**, and **LLMs** to build smarter systems
+- 🔍 Curious by nature — I love diving deep into complex datasets to uncover patterns and insights
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Toolbox
 
-| Languages | Data Analysis & ML | Visualization | Tools |
-|----------|-------------------|---------------|-------|
-| Python | Pandas, NumPy, Sklearn, Statsmodels | Seaborn, Matplotlib, Plotly, Power BI | Jupyter, VS Code, Excel, Git |
-| SQL / MySQL | Time Series (ARIMA, SARIMAX) | Dashboards & Reports | Docker (basic), Linux (Arch 🐧) |
+| 🔣 Languages | 📊 Data & ML | 📈 Visualization | ⚙️ Tools & Platforms |
+|-------------|--------------|------------------|----------------------|
+| Python, SQL, Bash | Pandas, NumPy, Scikit-learn, Statsmodels, XGBoost | Matplotlib, Seaborn, Plotly, Power BI | Jupyter, VSCode, Git, MySQL, PostgreSQL, Docker |
+| TypeScript, JavaScript | Time Series (ARIMA, SARIMAX, LSTM), Deep Learning (TensorFlow/Keras) | Power BI, Excel Dashboards | Linux (Arch), Prompt Engineering, OpenAI APIs |
+| -- | Vector DB (e.g. FAISS), LangChain (exploring) | Streamlit, Dash (basic) | -- |
 
 ---
 
-## 🧠 Featured Projects
+## 🔭 What I’ve Been Building
+
+- 📈 **AAPL Stock Forecasting**: Modeled 15 years of stock data using SARIMAX + exogenous inputs
+- 🧠 **Customer Churn Classifier**: Used ML to predict churn with real-world datasets
+- 🧾 **Retail Dashboard**: Visualized sales KPIs in Power BI with slicers and trends
+- 🔁 **EDA Automation Pipeline**: Reusable module for preprocessing and visualization
+- 🤖 **Prompt Engineering Experiments**: Testing GenAI use cases with real-world tasks
+
+---
+
+## 🧠 Highlight Projects
 
 | 📂 Project | 📄 Description |
 |-----------|----------------|
-| [AAPL Forecasting](https://github.com/sadiqhasanrupani/time-series-stock-aapl) | Forecasted Apple's stock prices for 60+ days using SARIMAX + exogenous inputs (Open, High, Low, Volume). |
-| [Power BI Sales Dashboard](#) | Visualized retail sales trends with filters, KPI tiles, and region-wise comparisons. |
-| [Customer Churn ML](#) | Identified churn behavior using Logistic Regression and Random Forests. |
-| [EDA Automation](#) | Reusable pipeline to preprocess, visualize, and summarize datasets efficiently. |
+| [AAPL Forecasting](https://github.com/sadiqhasanrupani/stock-market-analysis) | Forecasted stock prices using SARIMAX with confidence intervals and interactive visuals. |
+| [Sales Dashboard](#) | Built a business dashboard in Power BI using slicers, KPIs, and interactive charts. |
+| [ML Pipeline](#) | Classification model + feature engineering to detect customer churn patterns. |
+| [EDA Notebook](#) | Visual exploratory analysis using seaborn, plotly, and custom-built scripts. |
 
 ---
 
@@ -71,16 +73,21 @@ With a solid foundation in **Python, SQL, Machine Learning, and Time Series**, I
 
 <div align="center">
   <a href="https://github.com/sadiqhasanrupani/">
-    <img alt="Sadiqhasan's commit graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&theme=react-dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqhasanrupani&theme=react-dark&hide_border=true&area=true" width="90%" />
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadiqhasanrupani&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+
 ---
 
-## 📈 GitHub Profile View Counter
+## 📈 Profile View Counter
 
 [![](https://komarev.com/ghpvc/?username=sadiqhasanrupani&style=for-the-badge)](https://github.com/sadiqhasanrupani)
 
 ---
 
-🧩 *Always open to collaborate on data-driven projects or brainstorm over a coffee.*
+🧩 *Let’s build something data-driven, explainable, and impactful — together.*https://github.com/sadiqhasanrupani/stock-market-analysis
