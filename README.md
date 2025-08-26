@@ -58,15 +58,3 @@ _(Click a repo to see demos, tech stack, and full README)_
 
 Short message → fast reply.  
 **Email:** sadiqhasan.r@outlook.com · **Portfolio:** https://sadiqr.in · **LinkedIn:** https://linkedin.com/in/sadiqhasanrupani
-
----
-
-### Tiny notes (for you)
-
-- Keep this README short — let pinned repos hold the details.
-- For each repo: include a **TL;DR (1 line)**, **Tech**, **Demo / Screenshots**, and **Why it matters**.
-- Use bold + short lines so eyes land on the important bits.
-
----
-
-_If you want a version without images/widgets (leaner for mobile), or want me to auto-generate 1-line repo descriptions for 10 repos, say “lean version” or “make 1-liners”._
