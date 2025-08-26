@@ -16,9 +16,9 @@
 ## 🔧 Pinned Projects (my best 4)
 
 - **[Talent Match](https://github.com/sadiqhasanrupani/talent-match)** — TL;DR: AI job-matching that finds best-fit candidates using embeddings + match scores. · Next.js · Pinecone.
-- **[EDUGATE LMS](https://github.com/sadiqhasanrupani/edugate)** — TL;DR: End-to-end LMS with quizzes, assignments, and role-based dashboards. · React · Node · MySQL.
-- **[FinSolve](https://github.com/sadiqhasanrupani/finsolve)** — TL;DR: RAG-based finance chatbot that answers from internal docs. · FastAPI · LangChain · FAISS.
-- **[Glory Gym Store](https://github.com/sadiqhasanrupani/glory-gym-store)** — TL;DR: Client e-commerce + admin for product management. · React · Express · PostgreSQL.
+- **[EDUGATE LMS](https://github.com/sadiqhasanrupani/edugate-major-project)** — TL;DR: End-to-end LMS with quizzes, assignments, and role-based dashboards. · React · Node · MySQL.
+- **[FinSolve](https://github.com/sadiqhasanrupani/chat-bot-using-rag-for-fintech)** — TL;DR: RAG-based finance chatbot that answers from internal docs. · FastAPI · LangChain · FAISS.
+- **[Glory Gym Store](https://github.com/SohamGanmote/glory-gym-server)** — TL;DR: Client e-commerce + admin for product management. · React · Express · PostgreSQL.
 
 _(Click a repo to see demos, tech stack, and full README)_
 
