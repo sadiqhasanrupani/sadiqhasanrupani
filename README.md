@@ -108,7 +108,7 @@ Full‑stack engineer | Freelancer | Open‑source aspirant — building future�
   
 <br/>
 
-<a href="https://github.com/CelaDaniel" target="_blank">
+<a href="https://github.com/sadiqhasanrupani" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
 
